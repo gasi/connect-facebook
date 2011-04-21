@@ -1,0 +1,20 @@
+{
+    "name": "connect-facebook",
+    "description": "Facebook cookie parser middleware for Connect",
+    "version": "0.0.1",
+    "author": "Daniel Gasienica <daniel@gasienica.ch>",
+    "dependencies": {
+        "connect": "1.x",
+        "facebook-graph": "0.0.6"
+    },
+    "main": "lib",
+    "keywords": [
+        "connect",
+        "facebook",
+        "middleware",
+        "session"
+    ],
+    "engines": {
+        "node": ">= 0.4.2"
+    }
+}
